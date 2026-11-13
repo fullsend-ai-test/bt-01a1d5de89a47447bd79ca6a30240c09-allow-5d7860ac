@@ -13,4 +13,6 @@ runtime: dummy
 agents:
     - name: local-base
       source: harness/local-base.yaml
+    - name: local-child
+      source: harness/local-child.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
